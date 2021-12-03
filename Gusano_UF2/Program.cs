@@ -5,6 +5,7 @@ namespace Gusano_UF2
 {
     class Program
     {
+        //This function reads the file
         private static String ReadFile(String file){
             String Content=File.ReadAllText(file);
             return Content;
