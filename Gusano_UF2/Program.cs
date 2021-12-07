@@ -42,7 +42,7 @@ namespace Gusano_UF2
         }
         static void Main(string[] args)
         {
-            //args= new string[]{"Cuc.txt","5"};
+            args= new string[]{"Proyect.txt","99999"};
             String Content=ReadFile(args[0]);
             String Name=SearchName(args[0]);
             String Extension=SearchExtension(args[0]);
