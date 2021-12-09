@@ -229,7 +229,6 @@ C:\Users\USUARIO\Estudios\ASIX2\M11\Scrpts\Gusano_UF2\Gusano_UF2\obj\release\net
 C:\Users\USUARIO\Estudios\ASIX2\M11\Scrpts\Gusano_UF2\Gusano_UF2\obj\release\net5.0\win-x64\Gusano_UF2.AssemblyInfoInputs.cache
 C:\Users\USUARIO\Estudios\ASIX2\M11\Scrpts\Gusano_UF2\Gusano_UF2\obj\release\net5.0\win-x64\Gusano_UF2.AssemblyInfo.cs
 C:\Users\USUARIO\Estudios\ASIX2\M11\Scrpts\Gusano_UF2\Gusano_UF2\obj\release\net5.0\win-x64\Gusano_UF2.csproj.CoreCompileInputs.cache
-C:\Users\USUARIO\Estudios\ASIX2\M11\Scrpts\Gusano_UF2\Gusano_UF2\obj\release\net5.0\win-x64\Gusano_UF2.csproj.CopyComplete
 C:\Users\USUARIO\Estudios\ASIX2\M11\Scrpts\Gusano_UF2\Gusano_UF2\obj\release\net5.0\win-x64\Gusano_UF2.dll
 C:\Users\USUARIO\Estudios\ASIX2\M11\Scrpts\Gusano_UF2\Gusano_UF2\obj\release\net5.0\win-x64\ref\Gusano_UF2.dll
 C:\Users\USUARIO\Estudios\ASIX2\M11\Scrpts\Gusano_UF2\Gusano_UF2\obj\release\net5.0\win-x64\Gusano_UF2.pdb

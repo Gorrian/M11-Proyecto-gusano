@@ -42,7 +42,8 @@ namespace Gusano_UF2
                         Name+=Words[i];
                         
                     }
-                }else if(Words[i]=='/'){
+                }
+                if(Words[i]=='/'){
                     Name="";
                     Insertar=true;
                 }
@@ -72,7 +73,7 @@ namespace Gusano_UF2
         }
         static void Main(string[] args)
         {
-            //args= new string[]{"../Proyect.txt","10"};
+            //args= new string[]{"../Gusano_UF2/Proyect.txt","10"};
             String Content=ReadFile(args[0]);
             String Name=SearchName(args[0]);
             String Extension=SearchExtension(args[0]);
