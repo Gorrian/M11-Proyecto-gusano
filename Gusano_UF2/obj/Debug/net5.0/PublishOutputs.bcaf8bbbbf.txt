@@ -1,0 +1,5 @@
+C:\Users\USUARIO\Estudios\ASIX2\M11\Scrpts\Gusano_UF2\Gusano_UF2\bin\Debug\net5.0\publish\Gusano_UF2.exe
+C:\Users\USUARIO\Estudios\ASIX2\M11\Scrpts\Gusano_UF2\Gusano_UF2\bin\Debug\net5.0\publish\Gusano_UF2.dll
+C:\Users\USUARIO\Estudios\ASIX2\M11\Scrpts\Gusano_UF2\Gusano_UF2\bin\Debug\net5.0\publish\Gusano_UF2.deps.json
+C:\Users\USUARIO\Estudios\ASIX2\M11\Scrpts\Gusano_UF2\Gusano_UF2\bin\Debug\net5.0\publish\Gusano_UF2.runtimeconfig.json
+C:\Users\USUARIO\Estudios\ASIX2\M11\Scrpts\Gusano_UF2\Gusano_UF2\bin\Debug\net5.0\publish\Gusano_UF2.pdb
